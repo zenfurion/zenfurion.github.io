@@ -1,6 +1,5 @@
 @import url("color.css");
 
-p {
+body {
     font-family: 'Montserrat', sans-serif;
-    font-size: 600%;
 }
