@@ -1,5 +1,7 @@
 @import url("intro.css");
 @import url("schedule.css");
+@import url("footer.css");
+
 
 body {
     margin: 0;
@@ -21,4 +23,12 @@ h1, h2, h3, h4, h5, h6 {
 
 h1, h2 {
 	color: #ffffff;
+}
+
+h3, h4 {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1;
+    height: 100px;
 }
