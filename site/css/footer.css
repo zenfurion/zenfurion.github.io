@@ -2,5 +2,8 @@ footer {
     display:block;
     margin:auto;
     text-align:center;
-    margin-top: 150px;
+    margin-bottom: 50px;
+}
+footer b {
+    vertical-align: 25px;
 }
