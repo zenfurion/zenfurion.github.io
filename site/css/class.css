@@ -1,11 +1,33 @@
+hr {
+    margin-top: 250px;
+    margin-bottom: 100px;
+}
+
 .summary-left img {
     float: left;
     margin-right: 30px;
     margin-left: 300px;
  }
+ 
+    .summary-left b {
+        font-size: 35px;
+    }
+
+    .summary-left p {
+        font-size: 25px;
+    }
+
 
 .summary-right img {
     float: right;
     margin-left: 30px;
     margin-right: 300px;
 }
+
+    .summary-right b {
+        font-size: 35px;
+    }
+
+    .summary-right p {
+        font-size: 25px;
+    }
