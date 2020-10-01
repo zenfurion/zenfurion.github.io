@@ -13,12 +13,17 @@ figure {
 
 figure img {
     height: 324px;
-    margin-bottom: 150px;
 }
 
 figure span {
     position: relative;
-    bottom: 478px;
+    bottom: 326px;
     font-size: 24px;
     line-height: 1.3;
+}
+
+figure:hover {
+    position: relative;
+    transform: scale(1.15);
+    transition: all 0.5s;
 }
