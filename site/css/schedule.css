@@ -3,14 +3,22 @@
     font-weight: bold;
 }
 figcaption {
-    font-weight: bold;
+    font-weight: bold; 
 }
 figure {
-     display: inline-block;
-     text-align: center;
-}
-figure img {
-     height: 300px;
-     margin-bottom: 150px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
 }
 
+figure img {
+    height: 324px;
+    margin-bottom: 150px;
+}
+
+figure span {
+    position: relative;
+    bottom: 478px;
+    font-size: 25px;
+    line-height: 1.3;
+}
